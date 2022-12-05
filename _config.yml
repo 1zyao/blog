@@ -186,7 +186,7 @@ baidu_url_submit:
 # 看板娘
 ## 默认支持tororo(白色猫咪)
 live2d:
-    enable: true # 是否开启看板娘
+    enable: false # 是否开启看板娘
     scriptFrom: local
     pluginRootPath: live2dw/
     pluginJsPath: lib/
